@@ -1,4 +1,4 @@
-# #️⃣ Neural network practice
+# Neural Network Practice
 This repository serves as a personal practice space for exploring and learning about neural networks. It contains multiple python codes demonstrating fundamental concepts and applications of neural networks.
 
 ## 🚀 Features
